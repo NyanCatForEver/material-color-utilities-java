@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "com.google.android.material.color.utilities"
-version = "9cf7bd3"
+version = "193f145"
 
 repositories {
     mavenCentral()
